@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site preset-id="51">
+  <title>IOS/脱獄/Android情報共有コミュニティ</title>
+  <catchphrase>脱獄について知識を蓄積させることができる鯖</catchphrase>
+  <pages>
+    <home name="toppage">
+      <title>トップページ</title>
+      <content>
+        <page-content show="off">
+          <p>ようこそ<br />文章を入力してください。文章を入力してください。文章を入力してください。文章を入力してください。文章を入力してください。文章を入力してください。</p>
+        </page-content>
+        <part type="block-container">
+          <style preset="sp-preset10"></style>
+          <p style="text-align : center;">
+            <b class="character">IOSの脱獄をしてみませんか?</b>
+          </p>
+          <p style="text-align : center;">そんなあなたにおすすめなこのサーバー</p>
+          <p style="text-align : center;">AndroidやIOSについて話し合ったり普通に雑談したり</p>
+          <p style="text-align : center;">脱獄に興味ない人でも大歓迎なサーバーとなっております</p>
+          <p style="text-align : center;">プロセカなどやっている人もたくさんいて</p>
+          <p style="text-align : center;">推しについて話したり</p>
+          <p style="text-align : center;">脱獄について話したりと</p>
+          <p style="text-align : center;">みんなでWAIWAIする</p>
+          <p style="text-align : center;">そんなサーバーとなっています(基本はIOS脱獄)</p>
+          <p style="text-align : center;">詳細は実際に入って確かめてみてください!!</p>
+          <p style="text-align : center;"></p>
+          <part type="button">
+            <style preset="button-3">
+              <media type="pc"><![CDATA[
+  & {
+    margin-top : auto;
+    margin-left : auto;
+    margin-right : auto;
+    margin-bottom : auto;
+  }
+]]></media>
+            </style>
+            <a href="https://discord.com/invite/uHmaZ6B4?utm_source=Discord%20Widget&amp;utm_medium=Connect">はいる!</a>
+          </part>
+          <part type="html-src">
+            <style preset="sp-preset3">
+              <media type="pc"><![CDATA[
+  & {
+    width : 998px;
+    min-height : 24px;
+  }
+]]></media>
+            </style>
+            <src type="cdata2"><![CDATA[&lt;iframe src="https://discord.com/widget?id=827563319984259112&amp;theme=dark" width="1000" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"&gt;&lt;/iframe&gt;]]></src>
+          </part>
+        </part>
+      </content>
+    </home>
+  </pages>
+  <design design-id="0021" design-type="normal"></design>
+</site>
